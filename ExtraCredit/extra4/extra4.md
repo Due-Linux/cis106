@@ -6,8 +6,8 @@
 ## Question 2
 ![Question2](extra4.prac2.png)
 
-## Question 3 part 1
-![Question3/part1](extra4.prac3.png)
+## Question 3
+![Question3](extra4.prac3.png)
 
-## Question 3 part 2
-![Question3/part21](extra4.prac4.png)
+## Question 4
+![Question4](extra4.prac4.png)
